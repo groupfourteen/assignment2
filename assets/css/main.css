@@ -153,12 +153,12 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #464646;
+		color: #ffffff;
 		text-decoration: none;
 	}
 
 		a:hover {
-			border-bottom-color: #575757;
+			border-bottom-color: #ffffff;
 			color: #575757 !important;
 		}
 
